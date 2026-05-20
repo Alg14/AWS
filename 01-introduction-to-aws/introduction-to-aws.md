@@ -30,3 +30,5 @@ A region contains multiple data centre which have a cluster of servers, AWS has 
 ### What it is?
 
 Each AWS region has usually 3-6 availability zones, which are made up of one or more data centres each with their own redundant power. They are isolated from each other incase of a disaster so that high availability can be maintained. They also are connected with a high bandwidth and very low latency networking.
+
+![AWS Regions Diagram](images/AZ_img.png)
